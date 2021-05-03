@@ -2,6 +2,27 @@
   "src/App.js": {
     "description": "App component (main)",
     "displayName": "App",
-    "methods": []
+    "methods": [
+      {
+        "name": "micHandler",
+        "docblock": "Default mic handling behaviour",
+        "modifiers": [
+          "async"
+        ],
+        "params": [],
+        "returns": null,
+        "description": "Default mic handling behaviour"
+      },
+      {
+        "name": "camHandler",
+        "docblock": "Default camera handling behaviour",
+        "modifiers": [
+          "async"
+        ],
+        "params": [],
+        "returns": null,
+        "description": "Default camera handling behaviour"
+      }
+    ]
   }
 }
