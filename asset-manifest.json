@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cammic-web/static/css/main.27ff5123.chunk.css",
+    "main.js": "/cammic-web/static/js/main.54a7eae6.chunk.js",
+    "runtime-main.js": "/cammic-web/static/js/runtime-main.a777ebff.js",
+    "static/js/2.74f56f23.chunk.js": "/cammic-web/static/js/2.74f56f23.chunk.js",
+    "index.html": "/cammic-web/index.html",
+    "service-worker.js": "/cammic-web/service-worker.js",
+    "static/js/2.74f56f23.chunk.js.LICENSE.txt": "/cammic-web/static/js/2.74f56f23.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a777ebff.js",
+    "static/js/2.74f56f23.chunk.js",
+    "static/css/main.27ff5123.chunk.css",
+    "static/js/main.54a7eae6.chunk.js"
+  ]
+}
