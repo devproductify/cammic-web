@@ -8,10 +8,9 @@ https://accelerator-one.github.io/cammic-web/
 
 <br/>
 
-### Screenshots
-<br/>
+### Screenshot
 
-<!-- TODO: Add screenshots here -->
+  ![CAMMIC](screenshots/a1.png)
 
 <br/>
 

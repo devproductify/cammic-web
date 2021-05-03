@@ -24,5 +24,10 @@
         "description": "Default camera handling behaviour"
       }
     ]
+  },
+  "src/Main.js": {
+    "description": "Page layout setup\n@param {object}:any props \n@returns JSX.Element",
+    "displayName": "Main",
+    "methods": []
   }
 }

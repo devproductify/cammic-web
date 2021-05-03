@@ -138,11 +138,11 @@ class App extends React.Component {
 
         <span className='controls'>
 
-          <div id="video-playback" onClick={this.camHandler} className="btn-floating btn-large waves-effect waves-light red">
+          <div id="video-playback" title="Camera" onClick={this.camHandler} className="btn-floating btn-large waves-effect waves-light red">
             {(this.state.cam) ? <Videocam /> : <VideocamOff />}
           </div>
 
-          <div id="audio-playback" onClick={this.micHandler} className="btn-floating btn-large waves-effect waves-light red">
+          <div id="audio-playback" title="Microphone" onClick={this.micHandler} className="btn-floating btn-large waves-effect waves-light red">
             {(this.state.mic) ? <Mic /> : <MicOff />}
           </div>
 
