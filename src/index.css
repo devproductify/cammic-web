@@ -7,3 +7,34 @@ body {
   overflow-x: hidden;
   background-color: #f4f4f4;
 }
+
+.content {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.controls {
+  position: fixed;
+  color: white;
+  bottom: 2em;
+}
+
+video {
+  width: 480px;
+  height: 320px;
+  border-radius: 12px;
+  background-color: black;
+  box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.75);
+}
+
+.btn-floating {
+  margin: 0.5em;
+}
+
+svg {
+  position: relative;
+  top: 0.25em
+}
