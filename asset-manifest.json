@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/cammic-web/static/css/main.ef92226d.chunk.css",
-    "main.js": "/cammic-web/static/js/main.1cb8eb2c.chunk.js",
+    "main.css": "/cammic-web/static/css/main.d82ebb3b.chunk.css",
+    "main.js": "/cammic-web/static/js/main.0b35aad6.chunk.js",
     "runtime-main.js": "/cammic-web/static/js/runtime-main.a777ebff.js",
     "static/css/2.d5ea1e5e.chunk.css": "/cammic-web/static/css/2.d5ea1e5e.chunk.css",
-    "static/js/2.c5bbeec4.chunk.js": "/cammic-web/static/js/2.c5bbeec4.chunk.js",
+    "static/js/2.94b9a8ac.chunk.js": "/cammic-web/static/js/2.94b9a8ac.chunk.js",
     "index.html": "/cammic-web/index.html",
     "service-worker.js": "/cammic-web/service-worker.js",
-    "static/js/2.c5bbeec4.chunk.js.LICENSE.txt": "/cammic-web/static/js/2.c5bbeec4.chunk.js.LICENSE.txt"
+    "static/js/2.94b9a8ac.chunk.js.LICENSE.txt": "/cammic-web/static/js/2.94b9a8ac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a777ebff.js",
     "static/css/2.d5ea1e5e.chunk.css",
-    "static/js/2.c5bbeec4.chunk.js",
-    "static/css/main.ef92226d.chunk.css",
-    "static/js/main.1cb8eb2c.chunk.js"
+    "static/js/2.94b9a8ac.chunk.js",
+    "static/css/main.d82ebb3b.chunk.css",
+    "static/js/main.0b35aad6.chunk.js"
   ]
 }
